@@ -118,6 +118,7 @@ body {
 
 .paragraph {
     margin-top: 32px;
+    color: #535353;
 }
 
 .social-black {
@@ -135,6 +136,7 @@ body {
 .about {
     font-size: 14px;
     margin-top: 71px;
+    color: #535353;
 }
 
 li {
@@ -158,6 +160,8 @@ li {
     display: flex;
     justify-content: space-between;
 }
+
+
 
 
 
